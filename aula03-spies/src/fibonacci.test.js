@@ -3,11 +3,6 @@ const sinon = require('sinon')
 const assert = require('assert')
 ;
 // fibonacci: o proximo valor corresponde a soma dos dois anteriores
-// dado 3
-// 0, 1, 1
-// dado 5
-// 0, 1, 1, 2, 3
-
 (async () => {
 
     {
